@@ -130,6 +130,14 @@ p {
   padding: 120px 60px;
 }
 
+.projects-link {
+  text-decoration: none;
+  color: black;
+}
+
+.projects-link:hover {
+  color: var(--branding-color);
+}
 nav {
   padding: 20px 0;
 }
